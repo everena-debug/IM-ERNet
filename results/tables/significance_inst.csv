@@ -1,0 +1,8 @@
+Comparison,Seeds,Mean diff (pp),SD diff (pp),t,p (paired t),p (Wilcoxon),Cohen d_z,McNemar n01/n10,p (McNemar)
+IM-ERNet vs AST [3],5,0.15,0.59,0.554,0.6090178841735437,0.75,0.25,2/1,1.0
+IM-ERNet vs CNN-BiLSTM-Attn [6],5,2.01,1.41,3.182,0.03348587518246485,0.125,1.42,15/1,0.000518798828125
+IM-ERNet vs HTS-AT [21],5,-0.29,0.39,-1.632,0.17810383500860724,0.5,-0.73,0/2,0.5
+IM-ERNet vs w/o BiLSTM,3,-0.23,0.4,-1.0,0.42264973081037427,1.0,-0.58,0/1,1.0
+IM-ERNet vs w/o attention pooling (mean),3,-0.23,0.4,-1.0,0.42264973081037427,1.0,-0.58,0/1,1.0
+IM-ERNet vs w/o Stage-1 (direct fine-tuning),3,-0.23,0.4,-1.0,0.42264973081037427,1.0,-0.58,0/1,1.0
+IM-ERNet vs w/o SpecAugment,3,0.0,0.0,,,1.0,0.0,0/0,1.0

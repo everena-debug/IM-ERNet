@@ -1,0 +1,82 @@
+{
+  "DATA_DIR": "/kaggle/input/datasets/prasannak642/indian-classical-instrument-music-emotion-dataset/Indian Classical Instrument Music Emotion Dataset",
+  "OUT_DIR": "/kaggle/working/imernet_v3",
+  "RESUME_DIR": null,
+  "AST_NAME": "MIT/ast-finetuned-audioset-10-10-0.4593",
+  "W2V_NAME": "facebook/wav2vec2-base",
+  "CLAP_NAME": "laion/clap-htsat-unfused",
+  "SR": 16000,
+  "CLAP_SR": 48000,
+  "DURATION": 10.0,
+  "TOP_DB": 30,
+  "SPLIT": [
+    0.7,
+    0.1,
+    0.2
+  ],
+  "DEDUP_IDENTICAL": true,
+  "GROUP_SPLIT": true,
+  "MAIN_SEEDS": [
+    42,
+    52,
+    62,
+    72,
+    82
+  ],
+  "BASELINE_SEEDS": [
+    42,
+    52,
+    62,
+    72,
+    82
+  ],
+  "ABLATION_SEEDS": [
+    42,
+    52,
+    62
+  ],
+  "BATCH_SIZE": 8,
+  "NUM_WORKERS": 0,
+  "EPOCHS_STAGE1": 5,
+  "EPOCHS_STAGE2": 15,
+  "LR_STAGE1": 0.001,
+  "LR_STAGE2_BACKBONE": 2e-05,
+  "LR_STAGE2_HEAD": 0.0001,
+  "LR_SCRATCH": 0.001,
+  "WEIGHT_DECAY": 0.01,
+  "LABEL_SMOOTHING": 0.1,
+  "UNFREEZE_BLOCKS": 4,
+  "W_EMO": 1.5,
+  "W_INST": 1.0,
+  "DROPOUT": 0.3,
+  "GRAD_CLIP": 1.0,
+  "EARLY_STOP_PATIENCE": 5,
+  "SPECAUG": {
+    "time_mask": 20,
+    "freq_mask": 10,
+    "p": 0.5
+  },
+  "RUN_MAIN": true,
+  "RUN_BASELINES": true,
+  "RUN_ABLATIONS": true,
+  "RUN_W2V": false,
+  "RUN_HTSAT": true,
+  "SAVE_CKPT_FOR": [
+    "IM-ERNet",
+    "AST [3]",
+    "CNN-BiLSTM-Attn [6]"
+  ],
+  "NOISE_TYPES": [
+    "white",
+    "pink"
+  ],
+  "NOISE_SNRS": [
+    30,
+    20,
+    10,
+    5,
+    0
+  ],
+  "NEAR_DUP_THRESHOLD": 0.995,
+  "ANNOTATION_CSV": null
+}

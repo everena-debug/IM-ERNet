@@ -1,0 +1,448 @@
+file_a,file_b,class_a,class_b,cosine
+Morning Flute calm Music _14.mp3,Morning Flute Relax Music _49.mp3,Flute/Calm,Flute/Relax,1.0
+Morning Flute calm Music _6.mp3,Morning Flute Relax Music _20.mp3,Flute/Calm,Flute/Relax,0.99937
+Crying  Sad Flute Music_1.mp3,Crying  Sad Flute Music_3.wav,Flute/Sad,Flute/Sad,1.0
+Crying  Sad Flute Music_6.mp3,Crying  Sad Flute Music_7.wav,Flute/Sad,Flute/Sad,1.0
+rupak01.wav,rupak13.wav,Tabla/Calm,Tabla/Calm,0.99675
+rupak01.wav,jhaptal13.wav,Tabla/Calm,Tabla/Sad,0.99616
+rupak01.wav,jhaptal25.wav,Tabla/Calm,Tabla/Sad,0.99795
+rupak01.wav,jhaptal37.wav,Tabla/Calm,Tabla/Sad,0.99566
+rupak02.wav,rupak14.wav,Tabla/Calm,Tabla/Calm,0.9958
+rupak02.wav,jhaptal14.wav,Tabla/Calm,Tabla/Sad,0.9963
+rupak02.wav,jhaptal26.wav,Tabla/Calm,Tabla/Sad,0.99848
+rupak02.wav,jhaptal38.wav,Tabla/Calm,Tabla/Sad,0.99596
+rupak03.wav,rupak15.wav,Tabla/Calm,Tabla/Calm,0.99679
+rupak03.wav,jhaptal15.wav,Tabla/Calm,Tabla/Sad,0.99693
+rupak03.wav,jhaptal27.wav,Tabla/Calm,Tabla/Sad,0.99822
+rupak03.wav,jhaptal39.wav,Tabla/Calm,Tabla/Sad,0.99528
+rupak04.wav,rupak16.wav,Tabla/Calm,Tabla/Calm,0.99745
+rupak04.wav,jhaptal16.wav,Tabla/Calm,Tabla/Sad,0.99628
+rupak04.wav,jhaptal28.wav,Tabla/Calm,Tabla/Sad,0.99841
+rupak04.wav,jhaptal40.wav,Tabla/Calm,Tabla/Sad,0.99622
+rupak05.wav,rupak17.wav,Tabla/Calm,Tabla/Calm,0.99743
+rupak05.wav,jhaptal17.wav,Tabla/Calm,Tabla/Sad,0.99671
+rupak05.wav,jhaptal29.wav,Tabla/Calm,Tabla/Sad,0.99779
+rupak05.wav,jhaptal41.wav,Tabla/Calm,Tabla/Sad,0.99605
+rupak06.wav,rupak18.wav,Tabla/Calm,Tabla/Calm,0.99609
+rupak06.wav,jhaptal30.wav,Tabla/Calm,Tabla/Sad,0.99573
+rupak06.wav,jhaptal42.wav,Tabla/Calm,Tabla/Sad,0.99527
+rupak08.wav,rupak20.wav,Tabla/Calm,Tabla/Calm,0.99681
+rupak08.wav,jhaptal32.wav,Tabla/Calm,Tabla/Sad,0.99644
+rupak08.wav,jhaptal44.wav,Tabla/Calm,Tabla/Sad,0.99536
+rupak09.wav,rupak21.wav,Tabla/Calm,Tabla/Calm,0.99756
+rupak09.wav,jhaptal21.wav,Tabla/Calm,Tabla/Sad,0.9957
+rupak09.wav,jhaptal33.wav,Tabla/Calm,Tabla/Sad,0.99845
+rupak10.wav,rupak22.wav,Tabla/Calm,Tabla/Calm,0.99812
+rupak10.wav,jhaptal22.wav,Tabla/Calm,Tabla/Sad,0.99625
+rupak10.wav,jhaptal34.wav,Tabla/Calm,Tabla/Sad,0.99789
+rupak11.wav,rupak23.wav,Tabla/Calm,Tabla/Calm,0.99744
+rupak11.wav,jhaptal23.wav,Tabla/Calm,Tabla/Sad,0.99633
+rupak11.wav,jhaptal35.wav,Tabla/Calm,Tabla/Sad,0.99827
+rupak11.wav,jhaptal47.wav,Tabla/Calm,Tabla/Sad,0.99582
+rupak12.wav,rupak24.wav,Tabla/Calm,Tabla/Calm,0.99732
+rupak12.wav,jhaptal24.wav,Tabla/Calm,Tabla/Sad,0.99682
+rupak12.wav,jhaptal36.wav,Tabla/Calm,Tabla/Sad,0.9982
+rupak12.wav,jhaptal48.wav,Tabla/Calm,Tabla/Sad,0.99683
+rupak13.wav,rupak25.wav,Tabla/Calm,Tabla/Calm,0.99779
+rupak13.wav,jhaptal25.wav,Tabla/Calm,Tabla/Sad,0.99518
+rupak13.wav,jhaptal37.wav,Tabla/Calm,Tabla/Sad,0.99528
+rupak14.wav,rupak26.wav,Tabla/Calm,Tabla/Calm,0.99886
+rupak14.wav,rupak38.wav,Tabla/Calm,Tabla/Calm,0.99628
+rupak14.wav,jhaptal26.wav,Tabla/Calm,Tabla/Sad,0.99593
+rupak14.wav,jhaptal38.wav,Tabla/Calm,Tabla/Sad,0.99767
+rupak15.wav,rupak27.wav,Tabla/Calm,Tabla/Calm,0.99857
+rupak15.wav,rupak39.wav,Tabla/Calm,Tabla/Calm,0.99623
+rupak15.wav,jhaptal27.wav,Tabla/Calm,Tabla/Sad,0.99649
+rupak15.wav,jhaptal39.wav,Tabla/Calm,Tabla/Sad,0.99575
+rupak16.wav,rupak28.wav,Tabla/Calm,Tabla/Calm,0.99778
+rupak16.wav,rupak40.wav,Tabla/Calm,Tabla/Calm,0.99605
+rupak16.wav,jhaptal28.wav,Tabla/Calm,Tabla/Sad,0.9973
+rupak16.wav,jhaptal40.wav,Tabla/Calm,Tabla/Sad,0.9973
+rupak17.wav,rupak29.wav,Tabla/Calm,Tabla/Calm,0.99863
+rupak17.wav,rupak41.wav,Tabla/Calm,Tabla/Calm,0.99546
+rupak17.wav,jhaptal29.wav,Tabla/Calm,Tabla/Sad,0.99784
+rupak17.wav,jhaptal41.wav,Tabla/Calm,Tabla/Sad,0.99846
+rupak18.wav,rupak30.wav,Tabla/Calm,Tabla/Calm,0.99794
+rupak18.wav,rupak42.wav,Tabla/Calm,Tabla/Calm,0.99594
+rupak18.wav,jhaptal30.wav,Tabla/Calm,Tabla/Sad,0.99824
+rupak18.wav,jhaptal42.wav,Tabla/Calm,Tabla/Sad,0.9987
+rupak19.wav,rupak31.wav,Tabla/Calm,Tabla/Calm,0.99832
+rupak19.wav,rupak43.wav,Tabla/Calm,Tabla/Calm,0.9959
+rupak19.wav,jhaptal31.wav,Tabla/Calm,Tabla/Sad,0.99821
+rupak19.wav,jhaptal43.wav,Tabla/Calm,Tabla/Sad,0.9986
+rupak20.wav,rupak32.wav,Tabla/Calm,Tabla/Calm,0.99789
+rupak20.wav,rupak44.wav,Tabla/Calm,Tabla/Calm,0.99573
+rupak20.wav,jhaptal32.wav,Tabla/Calm,Tabla/Sad,0.99826
+rupak20.wav,jhaptal44.wav,Tabla/Calm,Tabla/Sad,0.99881
+rupak21.wav,rupak33.wav,Tabla/Calm,Tabla/Calm,0.99825
+rupak21.wav,jhaptal33.wav,Tabla/Calm,Tabla/Sad,0.99665
+rupak21.wav,jhaptal45.wav,Tabla/Calm,Tabla/Sad,0.99534
+rupak22.wav,rupak34.wav,Tabla/Calm,Tabla/Calm,0.99782
+rupak22.wav,jhaptal34.wav,Tabla/Calm,Tabla/Sad,0.9972
+rupak23.wav,rupak35.wav,Tabla/Calm,Tabla/Calm,0.9974
+rupak23.wav,rupak47.wav,Tabla/Calm,Tabla/Calm,0.99551
+rupak23.wav,jhaptal35.wav,Tabla/Calm,Tabla/Sad,0.99697
+rupak23.wav,jhaptal47.wav,Tabla/Calm,Tabla/Sad,0.99752
+rupak24.wav,rupak36.wav,Tabla/Calm,Tabla/Calm,0.99815
+rupak24.wav,rupak48.wav,Tabla/Calm,Tabla/Calm,0.99569
+rupak24.wav,jhaptal36.wav,Tabla/Calm,Tabla/Sad,0.99652
+rupak24.wav,jhaptal48.wav,Tabla/Calm,Tabla/Sad,0.99753
+rupak25.wav,rupak37.wav,Tabla/Calm,Tabla/Calm,0.99696
+rupak25.wav,jhaptal37.wav,Tabla/Calm,Tabla/Sad,0.99662
+rupak25.wav,jhaptal49.wav,Tabla/Calm,Tabla/Sad,0.99711
+rupak26.wav,rupak38.wav,Tabla/Calm,Tabla/Calm,0.99867
+rupak26.wav,rupak50.wav,Tabla/Calm,Tabla/Calm,0.99522
+rupak26.wav,jhaptal38.wav,Tabla/Calm,Tabla/Sad,0.99733
+rupak26.wav,jhaptal50.wav,Tabla/Calm,Tabla/Sad,0.99682
+rupak27.wav,rupak39.wav,Tabla/Calm,Tabla/Calm,0.99938
+rupak27.wav,rupak51.wav,Tabla/Calm,Tabla/Calm,0.99641
+rupak27.wav,jhaptal39.wav,Tabla/Calm,Tabla/Sad,0.99626
+rupak27.wav,jhaptal51.wav,Tabla/Calm,Tabla/Sad,0.99705
+rupak28.wav,rupak40.wav,Tabla/Calm,Tabla/Calm,0.99948
+rupak28.wav,rupak52.wav,Tabla/Calm,Tabla/Calm,0.99731
+rupak28.wav,jhaptal40.wav,Tabla/Calm,Tabla/Sad,0.99593
+rupak28.wav,jhaptal52.wav,Tabla/Calm,Tabla/Sad,0.99746
+rupak29.wav,rupak41.wav,Tabla/Calm,Tabla/Calm,0.99897
+rupak29.wav,rupak53.wav,Tabla/Calm,Tabla/Calm,0.9962
+rupak29.wav,jhaptal41.wav,Tabla/Calm,Tabla/Sad,0.99726
+rupak29.wav,jhaptal53.wav,Tabla/Calm,Tabla/Sad,0.99746
+rupak30.wav,rupak42.wav,Tabla/Calm,Tabla/Calm,0.99912
+rupak30.wav,rupak54.wav,Tabla/Calm,Tabla/Calm,0.99641
+rupak30.wav,jhaptal30.wav,Tabla/Calm,Tabla/Sad,0.99502
+rupak30.wav,jhaptal42.wav,Tabla/Calm,Tabla/Sad,0.99761
+rupak30.wav,jhaptal54.wav,Tabla/Calm,Tabla/Sad,0.99825
+rupak31.wav,rupak43.wav,Tabla/Calm,Tabla/Calm,0.99811
+rupak31.wav,rupak55.wav,Tabla/Calm,Tabla/Calm,0.99659
+rupak31.wav,jhaptal31.wav,Tabla/Calm,Tabla/Sad,0.99586
+rupak31.wav,jhaptal43.wav,Tabla/Calm,Tabla/Sad,0.99791
+rupak31.wav,jhaptal55.wav,Tabla/Calm,Tabla/Sad,0.99744
+rupak32.wav,rupak44.wav,Tabla/Calm,Tabla/Calm,0.99947
+rupak32.wav,rupak56.wav,Tabla/Calm,Tabla/Calm,0.99769
+rupak32.wav,jhaptal32.wav,Tabla/Calm,Tabla/Sad,0.99546
+rupak32.wav,jhaptal44.wav,Tabla/Calm,Tabla/Sad,0.99769
+rupak32.wav,jhaptal56.wav,Tabla/Calm,Tabla/Sad,0.99854
+rupak33.wav,rupak45.wav,Tabla/Calm,Tabla/Calm,0.99825
+rupak33.wav,jhaptal45.wav,Tabla/Calm,Tabla/Sad,0.99546
+rupak33.wav,jhaptal57.wav,Tabla/Calm,Tabla/Sad,0.99656
+rupak34.wav,rupak46.wav,Tabla/Calm,Tabla/Calm,0.99883
+rupak34.wav,rupak58.wav,Tabla/Calm,Tabla/Calm,0.99608
+rupak34.wav,jhaptal58.wav,Tabla/Calm,Tabla/Sad,0.99573
+rupak35.wav,rupak47.wav,Tabla/Calm,Tabla/Calm,0.99937
+rupak35.wav,rupak59.wav,Tabla/Calm,Tabla/Calm,0.99692
+rupak35.wav,jhaptal47.wav,Tabla/Calm,Tabla/Sad,0.99512
+rupak35.wav,jhaptal59.wav,Tabla/Calm,Tabla/Sad,0.99529
+rupak36.wav,rupak48.wav,Tabla/Calm,Tabla/Calm,0.99879
+rupak36.wav,rupak60.wav,Tabla/Calm,Tabla/Calm,0.99571
+rupak36.wav,jhaptal48.wav,Tabla/Calm,Tabla/Sad,0.99679
+rupak36.wav,jhaptal60.wav,Tabla/Calm,Tabla/Sad,0.99705
+rupak37.wav,rupak49.wav,Tabla/Calm,Tabla/Calm,0.99924
+rupak37.wav,jhaptal49.wav,Tabla/Calm,Tabla/Sad,0.99534
+rupak38.wav,rupak50.wav,Tabla/Calm,Tabla/Calm,0.99887
+rupak38.wav,jhaptal50.wav,Tabla/Calm,Tabla/Sad,0.99737
+rupak39.wav,rupak51.wav,Tabla/Calm,Tabla/Calm,0.99857
+rupak39.wav,jhaptal51.wav,Tabla/Calm,Tabla/Sad,0.99822
+rupak40.wav,rupak52.wav,Tabla/Calm,Tabla/Calm,0.99878
+rupak40.wav,jhaptal52.wav,Tabla/Calm,Tabla/Sad,0.99778
+rupak41.wav,rupak53.wav,Tabla/Calm,Tabla/Calm,0.99887
+rupak41.wav,jhaptal53.wav,Tabla/Calm,Tabla/Sad,0.99815
+rupak42.wav,rupak54.wav,Tabla/Calm,Tabla/Calm,0.99893
+rupak42.wav,jhaptal42.wav,Tabla/Calm,Tabla/Sad,0.99509
+rupak42.wav,jhaptal54.wav,Tabla/Calm,Tabla/Sad,0.99905
+rupak43.wav,rupak55.wav,Tabla/Calm,Tabla/Calm,0.99898
+rupak43.wav,jhaptal43.wav,Tabla/Calm,Tabla/Sad,0.99543
+rupak43.wav,jhaptal55.wav,Tabla/Calm,Tabla/Sad,0.99935
+rupak44.wav,rupak56.wav,Tabla/Calm,Tabla/Calm,0.99914
+rupak44.wav,jhaptal44.wav,Tabla/Calm,Tabla/Sad,0.99554
+rupak44.wav,jhaptal56.wav,Tabla/Calm,Tabla/Sad,0.99927
+rupak45.wav,rupak57.wav,Tabla/Calm,Tabla/Calm,0.9987
+rupak45.wav,jhaptal57.wav,Tabla/Calm,Tabla/Sad,0.99767
+rupak46.wav,rupak58.wav,Tabla/Calm,Tabla/Calm,0.99897
+rupak47.wav,rupak59.wav,Tabla/Calm,Tabla/Calm,0.99829
+rupak47.wav,jhaptal59.wav,Tabla/Calm,Tabla/Sad,0.99703
+rupak48.wav,rupak60.wav,Tabla/Calm,Tabla/Calm,0.9986
+rupak48.wav,jhaptal60.wav,Tabla/Calm,Tabla/Sad,0.99652
+rupak49.wav,jhaptal49.wav,Tabla/Calm,Tabla/Sad,0.99552
+rupak50.wav,jhaptal50.wav,Tabla/Calm,Tabla/Sad,0.99539
+rupak51.wav,jhaptal51.wav,Tabla/Calm,Tabla/Sad,0.9969
+rupak52.wav,jhaptal52.wav,Tabla/Calm,Tabla/Sad,0.99711
+rupak53.wav,jhaptal53.wav,Tabla/Calm,Tabla/Sad,0.99778
+rupak54.wav,jhaptal54.wav,Tabla/Calm,Tabla/Sad,0.99828
+rupak55.wav,jhaptal55.wav,Tabla/Calm,Tabla/Sad,0.99839
+rupak56.wav,jhaptal56.wav,Tabla/Calm,Tabla/Sad,0.99872
+rupak57.wav,jhaptal57.wav,Tabla/Calm,Tabla/Sad,0.9958
+rupak60.wav,jhaptal60.wav,Tabla/Calm,Tabla/Sad,0.99554
+trital03.wav,trital04.wav,Tabla/Happy,Tabla/Happy,0.99567
+trital04.wav,trital05.wav,Tabla/Happy,Tabla/Happy,0.99706
+trital06.wav,trital07.wav,Tabla/Happy,Tabla/Happy,0.9976
+trital06.wav,trital15.wav,Tabla/Happy,Tabla/Happy,0.99772
+trital06.wav,trital16.wav,Tabla/Happy,Tabla/Happy,0.99772
+trital06.wav,trital17.wav,Tabla/Happy,Tabla/Happy,0.99765
+trital06.wav,trital84.wav,Tabla/Happy,Tabla/Happy,0.99575
+trital07.wav,trital08.wav,Tabla/Happy,Tabla/Happy,0.99794
+trital07.wav,trital17.wav,Tabla/Happy,Tabla/Happy,0.9998
+trital07.wav,trital18.wav,Tabla/Happy,Tabla/Happy,0.99742
+trital07.wav,trital19.wav,Tabla/Happy,Tabla/Happy,0.99692
+trital08.wav,trital09.wav,Tabla/Happy,Tabla/Happy,0.99855
+trital08.wav,trital17.wav,Tabla/Happy,Tabla/Happy,0.99711
+trital08.wav,trital18.wav,Tabla/Happy,Tabla/Happy,0.99996
+trital08.wav,trital19.wav,Tabla/Happy,Tabla/Happy,0.99971
+trital09.wav,trital18.wav,Tabla/Happy,Tabla/Happy,0.99893
+trital09.wav,trital19.wav,Tabla/Happy,Tabla/Happy,0.99859
+trital100.wav,trital80.wav,Tabla/Happy,Tabla/Happy,0.99685
+trital11.wav,trital12.wav,Tabla/Happy,Tabla/Happy,0.99976
+trital13.wav,trital14.wav,Tabla/Happy,Tabla/Happy,0.99524
+trital13.wav,trital63.wav,Tabla/Happy,Tabla/Happy,0.99923
+trital14.wav,trital15.wav,Tabla/Happy,Tabla/Happy,0.99692
+trital14.wav,trital16.wav,Tabla/Happy,Tabla/Happy,0.99692
+trital14.wav,trital84.wav,Tabla/Happy,Tabla/Happy,0.99785
+trital15.wav,trital16.wav,Tabla/Happy,Tabla/Happy,1.0
+trital15.wav,trital84.wav,Tabla/Happy,Tabla/Happy,0.99922
+trital15.wav,trital92.wav,Tabla/Happy,Tabla/Happy,0.99589
+trital16.wav,trital84.wav,Tabla/Happy,Tabla/Happy,0.99922
+trital16.wav,trital92.wav,Tabla/Happy,Tabla/Happy,0.99589
+trital17.wav,trital18.wav,Tabla/Happy,Tabla/Happy,0.9965
+trital17.wav,trital19.wav,Tabla/Happy,Tabla/Happy,0.9962
+trital18.wav,trital19.wav,Tabla/Happy,Tabla/Happy,0.99971
+trital33.wav,trital45.wav,Tabla/Happy,Tabla/Happy,0.99987
+trital34.wav,trital46.wav,Tabla/Happy,Tabla/Happy,0.99831
+trital35.wav,trital47.wav,Tabla/Happy,Tabla/Happy,0.99983
+trital36.wav,trital48.wav,Tabla/Happy,Tabla/Happy,0.9989
+trital37.wav,trital49.wav,Tabla/Happy,Tabla/Happy,0.99972
+trital38.wav,trital50.wav,Tabla/Happy,Tabla/Happy,0.99959
+trital53.wav,trital65.wav,Tabla/Happy,Tabla/Happy,0.99938
+trital54.wav,trital66.wav,Tabla/Happy,Tabla/Happy,0.99975
+trital55.wav,trital67.wav,Tabla/Happy,Tabla/Happy,0.99985
+trital56.wav,trital68.wav,Tabla/Happy,Tabla/Happy,0.9999
+trital57.wav,trital69.wav,Tabla/Happy,Tabla/Happy,0.99981
+trital58.wav,trital70.wav,Tabla/Happy,Tabla/Happy,0.99977
+trital71.wav,trital92.wav,Tabla/Happy,Tabla/Happy,0.99775
+trital72.wav,trital85.wav,Tabla/Happy,Tabla/Happy,0.9951
+trital72.wav,trital93.wav,Tabla/Happy,Tabla/Happy,0.9961
+trital73.wav,trital86.wav,Tabla/Happy,Tabla/Happy,0.99967
+trital73.wav,trital94.wav,Tabla/Happy,Tabla/Happy,0.99791
+trital74.wav,trital87.wav,Tabla/Happy,Tabla/Happy,0.99995
+trital74.wav,trital95.wav,Tabla/Happy,Tabla/Happy,0.9973
+trital76.wav,trital88.wav,Tabla/Happy,Tabla/Happy,0.99968
+trital76.wav,trital96.wav,Tabla/Happy,Tabla/Happy,0.99668
+trital77.wav,trital89.wav,Tabla/Happy,Tabla/Happy,0.99988
+trital77.wav,trital97.wav,Tabla/Happy,Tabla/Happy,0.99729
+trital78.wav,trital90.wav,Tabla/Happy,Tabla/Happy,0.99997
+trital78.wav,trital98.wav,Tabla/Happy,Tabla/Happy,0.99785
+trital79.wav,trital91.wav,Tabla/Happy,Tabla/Happy,0.9997
+trital79.wav,trital99.wav,Tabla/Happy,Tabla/Happy,0.9973
+trital85.wav,trital93.wav,Tabla/Happy,Tabla/Happy,0.9953
+trital86.wav,trital94.wav,Tabla/Happy,Tabla/Happy,0.99748
+trital87.wav,trital95.wav,Tabla/Happy,Tabla/Happy,0.99714
+trital88.wav,trital96.wav,Tabla/Happy,Tabla/Happy,0.99746
+trital89.wav,trital97.wav,Tabla/Happy,Tabla/Happy,0.99766
+trital90.wav,trital98.wav,Tabla/Happy,Tabla/Happy,0.99762
+trital91.wav,trital99.wav,Tabla/Happy,Tabla/Happy,0.99732
+relax3.wav,relax8.wav,Tabla/Relax,Tabla/Relax,0.99755
+jhaptal13.wav,jhaptal25.wav,Tabla/Sad,Tabla/Sad,0.99605
+jhaptal14.wav,jhaptal26.wav,Tabla/Sad,Tabla/Sad,0.99622
+jhaptal15.wav,jhaptal27.wav,Tabla/Sad,Tabla/Sad,0.9969
+jhaptal16.wav,jhaptal28.wav,Tabla/Sad,Tabla/Sad,0.9963
+jhaptal17.wav,jhaptal29.wav,Tabla/Sad,Tabla/Sad,0.99593
+jhaptal18.wav,jhaptal30.wav,Tabla/Sad,Tabla/Sad,0.99685
+jhaptal19.wav,jhaptal31.wav,Tabla/Sad,Tabla/Sad,0.99707
+jhaptal20.wav,jhaptal32.wav,Tabla/Sad,Tabla/Sad,0.99626
+jhaptal21.wav,jhaptal33.wav,Tabla/Sad,Tabla/Sad,0.99538
+jhaptal22.wav,jhaptal34.wav,Tabla/Sad,Tabla/Sad,0.99582
+jhaptal24.wav,jhaptal36.wav,Tabla/Sad,Tabla/Sad,0.99766
+jhaptal25.wav,jhaptal37.wav,Tabla/Sad,Tabla/Sad,0.99839
+jhaptal26.wav,jhaptal38.wav,Tabla/Sad,Tabla/Sad,0.99798
+jhaptal27.wav,jhaptal39.wav,Tabla/Sad,Tabla/Sad,0.99808
+jhaptal28.wav,jhaptal40.wav,Tabla/Sad,Tabla/Sad,0.99841
+jhaptal29.wav,jhaptal41.wav,Tabla/Sad,Tabla/Sad,0.99893
+jhaptal30.wav,jhaptal42.wav,Tabla/Sad,Tabla/Sad,0.99885
+jhaptal31.wav,jhaptal43.wav,Tabla/Sad,Tabla/Sad,0.99907
+jhaptal32.wav,jhaptal44.wav,Tabla/Sad,Tabla/Sad,0.99903
+jhaptal33.wav,jhaptal45.wav,Tabla/Sad,Tabla/Sad,0.99724
+jhaptal34.wav,jhaptal46.wav,Tabla/Sad,Tabla/Sad,0.99728
+jhaptal35.wav,jhaptal47.wav,Tabla/Sad,Tabla/Sad,0.99837
+jhaptal36.wav,jhaptal48.wav,Tabla/Sad,Tabla/Sad,0.99802
+jhaptal38.wav,jhaptal50.wav,Tabla/Sad,Tabla/Sad,0.99508
+jhaptal39.wav,jhaptal51.wav,Tabla/Sad,Tabla/Sad,0.99527
+jhaptal42.wav,jhaptal54.wav,Tabla/Sad,Tabla/Sad,0.99507
+jhaptal43.wav,jhaptal55.wav,Tabla/Sad,Tabla/Sad,0.99543
+jhaptal44.wav,jhaptal56.wav,Tabla/Sad,Tabla/Sad,0.99526
+Veena Calm Instrumental1.mp3,Veena Calm Instrumental2.mp3,Veena/Calm,Veena/Calm,0.99941
+Veena Calm Instrumental1.mp3,Veena Calm Instrumental3.mp3,Veena/Calm,Veena/Calm,0.99839
+Veena Calm Instrumental10.mp3,Veena Calm Instrumental18.mp3,Veena/Calm,Veena/Calm,0.99789
+Veena Calm Instrumental16.mp3,Veena Calm Instrumental37.mp3,Veena/Calm,Veena/Calm,0.99868
+Veena Calm Instrumental17.mp3,Veena Calm Instrumental7.mp3,Veena/Calm,Veena/Calm,0.99763
+Veena Calm Instrumental2.mp3,Veena Calm Instrumental3.mp3,Veena/Calm,Veena/Calm,0.99937
+Veena Calm Instrumental20.mp3,Veena Calm Instrumental29.mp3,Veena/Calm,Veena/Calm,0.99925
+Veena Calm Instrumental21.mp3,Veena Calm Instrumental9.mp3,Veena/Calm,Veena/Calm,0.99771
+Veena Calm Instrumental22.mp3,Veena Calm Instrumental33.mp3,Veena/Calm,Veena/Calm,0.99864
+Veena Calm Instrumental24.mp3,Veena Calm Instrumental43.mp3,Veena/Calm,Veena/Calm,0.99938
+Veena Calm Instrumental25.mp3,Veena Calm Instrumental30.mp3,Veena/Calm,Veena/Calm,0.99516
+Veena Calm Instrumental26.mp3,Veena Calm Instrumental32.mp3,Veena/Calm,Veena/Calm,0.99866
+Veena Calm Instrumental26.mp3,Veena Calm Instrumental46.mp3,Veena/Calm,Veena/Calm,0.99863
+Veena Calm Instrumental32.mp3,Veena Calm Instrumental46.mp3,Veena/Calm,Veena/Calm,0.99997
+Veena Calm Instrumental36.mp3,Veena Calm Instrumental41.mp3,Veena/Calm,Veena/Calm,0.99849
+veena happy_10.mp3,veena happy_11.mp3,Veena/Happy,Veena/Happy,0.99623
+veena happy_10.mp3,veena happy_9.mp3,Veena/Happy,Veena/Happy,0.99865
+veena happy_11.mp3,veena happy_12.mp3,Veena/Happy,Veena/Happy,0.99796
+veena happy_11.mp3,veena happy_9.mp3,Veena/Happy,Veena/Happy,0.99572
+veena happy_14.mp3,veena happy_15.mp3,Veena/Happy,Veena/Happy,0.99775
+veena happy_16.mp3,veena happy_34.mp3,Veena/Happy,Veena/Happy,0.99641
+veena happy_16.mp3,veena happy_36.mp3,Veena/Happy,Veena/Happy,0.99874
+veena happy_16.mp3,veena happy_37.mp3,Veena/Happy,Veena/Happy,0.99501
+veena happy_16.mp3,veena happy_52.mp3,Veena/Happy,Veena/Happy,0.99545
+veena happy_17.mp3,veena happy_33.mp3,Veena/Happy,Veena/Happy,0.9952
+veena happy_17.mp3,veena happy_48.mp3,Veena/Happy,Veena/Happy,0.99687
+veena happy_17.mp3,veena happy_50.mp3,Veena/Happy,Veena/Happy,0.99912
+veena happy_17.mp3,veena happy_51.mp3,Veena/Happy,Veena/Happy,0.99807
+veena happy_18.mp3,veena happy_19.mp3,Veena/Happy,Veena/Happy,0.99511
+veena happy_18.mp3,veena happy_35.mp3,Veena/Happy,Veena/Happy,0.99722
+veena happy_18.mp3,veena happy_39.mp3,Veena/Happy,Veena/Happy,0.99587
+veena happy_19.mp3,veena happy_39.mp3,Veena/Happy,Veena/Happy,0.99986
+veena happy_19.mp3,veena happy_47.mp3,Veena/Happy,Veena/Happy,0.99926
+veena happy_19.mp3,veena happy_49.mp3,Veena/Happy,Veena/Happy,0.99879
+veena happy_19.mp3,veena happy_53.mp3,Veena/Happy,Veena/Happy,0.99847
+veena happy_2.mp3,veena happy_43.mp3,Veena/Happy,Veena/Happy,0.99741
+veena happy_29.mp3,veena happy_33.mp3,Veena/Happy,Veena/Happy,0.99564
+veena happy_29.mp3,veena happy_38.mp3,Veena/Happy,Veena/Happy,0.99627
+veena happy_29.mp3,veena happy_5.mp3,Veena/Happy,Veena/Happy,0.99653
+veena happy_3.mp3,veena happy_32.mp3,Veena/Happy,Veena/Happy,0.99877
+veena happy_3.mp3,veena happy_7.mp3,Veena/Happy,Veena/Happy,0.99747
+veena happy_3.mp3,veena happy_8.mp3,Veena/Happy,Veena/Happy,0.9969
+veena happy_30.mp3,veena happy_31.mp3,Veena/Happy,Veena/Happy,0.99739
+veena happy_30.mp3,veena happy_44.mp3,Veena/Happy,Veena/Happy,0.99804
+veena happy_31.mp3,veena happy_43.mp3,Veena/Happy,Veena/Happy,0.99637
+veena happy_32.mp3,veena happy_7.mp3,Veena/Happy,Veena/Happy,0.99798
+veena happy_32.mp3,veena happy_8.mp3,Veena/Happy,Veena/Happy,0.99709
+veena happy_33.mp3,veena happy_34.mp3,Veena/Happy,Veena/Happy,0.99743
+veena happy_33.mp3,veena happy_5.mp3,Veena/Happy,Veena/Happy,0.99758
+veena happy_33.mp3,veena happy_52.mp3,Veena/Happy,Veena/Happy,0.99536
+veena happy_33.mp3,veena happy_6.mp3,Veena/Happy,Veena/Happy,0.99738
+veena happy_34.mp3,veena happy_35.mp3,Veena/Happy,Veena/Happy,0.99586
+veena happy_34.mp3,veena happy_36.mp3,Veena/Happy,Veena/Happy,0.99754
+veena happy_34.mp3,veena happy_5.mp3,Veena/Happy,Veena/Happy,0.9974
+veena happy_34.mp3,veena happy_52.mp3,Veena/Happy,Veena/Happy,0.99801
+veena happy_34.mp3,veena happy_6.mp3,Veena/Happy,Veena/Happy,0.99645
+veena happy_35.mp3,veena happy_36.mp3,Veena/Happy,Veena/Happy,0.99672
+veena happy_35.mp3,veena happy_39.mp3,Veena/Happy,Veena/Happy,0.99519
+veena happy_36.mp3,veena happy_37.mp3,Veena/Happy,Veena/Happy,0.99525
+veena happy_36.mp3,veena happy_52.mp3,Veena/Happy,Veena/Happy,0.99595
+veena happy_37.mp3,veena happy_5.mp3,Veena/Happy,Veena/Happy,0.9966
+veena happy_38.mp3,veena happy_6.mp3,Veena/Happy,Veena/Happy,0.99598
+veena happy_39.mp3,veena happy_47.mp3,Veena/Happy,Veena/Happy,0.99924
+veena happy_39.mp3,veena happy_49.mp3,Veena/Happy,Veena/Happy,0.99838
+veena happy_39.mp3,veena happy_53.mp3,Veena/Happy,Veena/Happy,0.99828
+veena happy_40.mp3,veena happy_41.mp3,Veena/Happy,Veena/Happy,0.99749
+veena happy_40.mp3,veena happy_45.mp3,Veena/Happy,Veena/Happy,0.99841
+veena happy_41.mp3,veena happy_42.mp3,Veena/Happy,Veena/Happy,0.99773
+veena happy_41.mp3,veena happy_45.mp3,Veena/Happy,Veena/Happy,0.99527
+veena happy_42.mp3,veena happy_44.mp3,Veena/Happy,Veena/Happy,0.99816
+veena happy_47.mp3,veena happy_49.mp3,Veena/Happy,Veena/Happy,0.99809
+veena happy_47.mp3,veena happy_53.mp3,Veena/Happy,Veena/Happy,0.99737
+veena happy_48.mp3,veena happy_50.mp3,Veena/Happy,Veena/Happy,0.99776
+veena happy_48.mp3,veena happy_51.mp3,Veena/Happy,Veena/Happy,0.99882
+veena happy_48.mp3,veena happy_52.mp3,Veena/Happy,Veena/Happy,0.9952
+veena happy_49.mp3,veena happy_53.mp3,Veena/Happy,Veena/Happy,0.99903
+veena happy_5.mp3,veena happy_52.mp3,Veena/Happy,Veena/Happy,0.99722
+veena happy_5.mp3,veena happy_6.mp3,Veena/Happy,Veena/Happy,0.99578
+veena happy_50.mp3,veena happy_51.mp3,Veena/Happy,Veena/Happy,0.99767
+veena happy_7.mp3,veena happy_8.mp3,Veena/Happy,Veena/Happy,0.99963
+veena relax_11.mp3,veena relax_57.mp3,Veena/Relax,Veena/Relax,0.99783
+veena relax_13.mp3,veena relax_33.mp3,Veena/Relax,Veena/Relax,0.99893
+veena relax_18.mp3,veena relax_8.mp3,Veena/Relax,Veena/Relax,0.9982
+veena relax_22.mp3,veena relax_46.mp3,Veena/Relax,Veena/Relax,0.99549
+veena relax_23.mp3,veena relax_31.mp3,Veena/Relax,Veena/Relax,0.99566
+veena relax_23.mp3,veena relax_47.mp3,Veena/Relax,Veena/Relax,0.99785
+veena relax_37.mp3,veena relax_60.mp3,Veena/Relax,Veena/Relax,0.9995
+veena relax_41.mp3,veena relax_42.mp3,Veena/Relax,Veena/Relax,1.0
+veena relax_43.mp3,veena relax_56.mp3,Veena/Relax,Veena/Relax,0.99784
+veena relax_49.mp3,veena relax_59.mp3,Veena/Relax,Veena/Relax,0.99741
+veena relax_52.mp3,veena relax_7.mp3,Veena/Relax,Veena/Relax,0.9974
+veena sad_12.mp3,veena sad_34.mp3,Veena/Sad,Veena/Sad,0.99916
+veena sad_13.mp3,veena sad_29.mp3,Veena/Sad,Veena/Sad,0.99883
+veena sad_14.mp3,veena sad_22.mp3,Veena/Sad,Veena/Sad,0.99895
+veena sad_14.mp3,veena sad_3.mp3,Veena/Sad,Veena/Sad,0.99817
+veena sad_15.mp3,veena sad_4.mp3,Veena/Sad,Veena/Sad,0.99519
+veena sad_16.mp3,veena sad_24.mp3,Veena/Sad,Veena/Sad,0.99613
+veena sad_16.mp3,veena sad_6.mp3,Veena/Sad,Veena/Sad,0.9965
+veena sad_17.mp3,veena sad_7.mp3,Veena/Sad,Veena/Sad,0.99868
+veena sad_19.mp3,veena sad_9.mp3,Veena/Sad,Veena/Sad,0.99917
+veena sad_22.mp3,veena sad_3.mp3,Veena/Sad,Veena/Sad,0.99949
+veena sad_24.mp3,veena sad_6.mp3,Veena/Sad,Veena/Sad,0.99945
+veena sad_35.mp3,veena sad_37.mp3,Veena/Sad,Veena/Sad,0.99617
+veena sad_35.mp3,veena sad_47.mp3,Veena/Sad,Veena/Sad,0.99589
+veena sad_35.mp3,veena sad_48.mp3,Veena/Sad,Veena/Sad,0.99957
+veena sad_35.mp3,veena sad_49.mp3,Veena/Sad,Veena/Sad,0.99957
+veena sad_35.mp3,veena sad_51.mp3,Veena/Sad,Veena/Sad,0.99869
+veena sad_36.mp3,veena sad_37.mp3,Veena/Sad,Veena/Sad,0.99884
+veena sad_36.mp3,veena sad_47.mp3,Veena/Sad,Veena/Sad,0.99916
+veena sad_36.mp3,veena sad_48.mp3,Veena/Sad,Veena/Sad,0.99667
+veena sad_36.mp3,veena sad_49.mp3,Veena/Sad,Veena/Sad,0.99667
+veena sad_37.mp3,veena sad_47.mp3,Veena/Sad,Veena/Sad,0.99985
+veena sad_37.mp3,veena sad_48.mp3,Veena/Sad,Veena/Sad,0.99708
+veena sad_37.mp3,veena sad_49.mp3,Veena/Sad,Veena/Sad,0.99708
+veena sad_38.mp3,veena sad_39.mp3,Veena/Sad,Veena/Sad,0.99709
+veena sad_38.mp3,veena sad_46.mp3,Veena/Sad,Veena/Sad,0.99854
+veena sad_38.mp3,veena sad_50.mp3,Veena/Sad,Veena/Sad,0.99554
+veena sad_39.mp3,veena sad_40.mp3,Veena/Sad,Veena/Sad,0.99783
+veena sad_39.mp3,veena sad_45.mp3,Veena/Sad,Veena/Sad,0.99561
+veena sad_39.mp3,veena sad_46.mp3,Veena/Sad,Veena/Sad,0.99919
+veena sad_39.mp3,veena sad_50.mp3,Veena/Sad,Veena/Sad,0.99888
+veena sad_40.mp3,veena sad_46.mp3,Veena/Sad,Veena/Sad,0.99651
+veena sad_40.mp3,veena sad_50.mp3,Veena/Sad,Veena/Sad,0.99887
+veena sad_41.mp3,veena sad_42.mp3,Veena/Sad,Veena/Sad,0.99678
+veena sad_41.mp3,veena sad_44.mp3,Veena/Sad,Veena/Sad,0.99654
+veena sad_41.mp3,veena sad_45.mp3,Veena/Sad,Veena/Sad,0.99623
+veena sad_42.mp3,veena sad_43.mp3,Veena/Sad,Veena/Sad,0.99737
+veena sad_42.mp3,veena sad_44.mp3,Veena/Sad,Veena/Sad,0.99987
+veena sad_43.mp3,veena sad_44.mp3,Veena/Sad,Veena/Sad,0.99716
+veena sad_45.mp3,veena sad_46.mp3,Veena/Sad,Veena/Sad,0.9963
+veena sad_45.mp3,veena sad_50.mp3,Veena/Sad,Veena/Sad,0.99506
+veena sad_46.mp3,veena sad_50.mp3,Veena/Sad,Veena/Sad,0.99776
+veena sad_47.mp3,veena sad_48.mp3,Veena/Sad,Veena/Sad,0.99699
+veena sad_47.mp3,veena sad_49.mp3,Veena/Sad,Veena/Sad,0.99699
+veena sad_48.mp3,veena sad_49.mp3,Veena/Sad,Veena/Sad,1.0
+veena sad_48.mp3,veena sad_51.mp3,Veena/Sad,Veena/Sad,0.99779
+veena sad_49.mp3,veena sad_51.mp3,Veena/Sad,Veena/Sad,0.99779
+violin calm-12.mp3,violin calm-21.mp3,Violin/Calm,Violin/Calm,0.99536
+violin calm-4.mp3,violin calm-42.mp3,Violin/Calm,Violin/Calm,0.9985
+violin calm-45.mp3,violin calm-7.mp3,Violin/Calm,Violin/Calm,0.99509
+Violin_happy-1.mp3,Violin_happy-28.mp3,Violin/Happy,Violin/Happy,0.99959
+Violin_happy-10.mp3,Violin_happy-12.mp3,Violin/Happy,Violin/Happy,0.9961
+Violin_happy-10.mp3,Violin_happy-16.mp3,Violin/Happy,Violin/Happy,0.99791
+Violin_happy-10.mp3,Violin_happy-17.mp3,Violin/Happy,Violin/Happy,0.99648
+Violin_happy-10.mp3,Violin_happy-19.mp3,Violin/Happy,Violin/Happy,0.9959
+Violin_happy-11.mp3,Violin_happy-8.mp3,Violin/Happy,Violin/Happy,0.99879
+Violin_happy-12.mp3,Violin_happy-19.mp3,Violin/Happy,Violin/Happy,0.99678
+Violin_happy-15.mp3,Violin_happy-24.mp3,Violin/Happy,Violin/Happy,0.99523
+Violin_happy-15.mp3,Violin_happy-25.mp3,Violin/Happy,Violin/Happy,0.99517
+Violin_happy-15.mp3,Violin_happy-26.mp3,Violin/Happy,Violin/Happy,0.99741
+Violin_happy-17.mp3,Violin_happy-19.mp3,Violin/Happy,Violin/Happy,0.99622
+Violin_happy-21.mp3,Violin_happy-27.mp3,Violin/Happy,Violin/Happy,0.9991
+Violin_happy-22.mp3,Violin_happy-23.mp3,Violin/Happy,Violin/Happy,0.99552
+Violin_happy-24.mp3,Violin_happy-25.mp3,Violin/Happy,Violin/Happy,0.99554
+Violin_happy-24.mp3,Violin_happy-26.mp3,Violin/Happy,Violin/Happy,0.99532
+Violin_happy-36.mp3,Violin_happy-40.mp3,Violin/Happy,Violin/Happy,0.99762
+Violin_happy-37.mp3,Violin_happy-39.mp3,Violin/Happy,Violin/Happy,0.99866
+Violin_happy-37.mp3,Violin_happy-42.mp3,Violin/Happy,Violin/Happy,0.9982
+Violin_happy-37.mp3,Violin_happy-43.mp3,Violin/Happy,Violin/Happy,0.99899
+Violin_happy-37.mp3,Violin_happy-45.mp3,Violin/Happy,Violin/Happy,0.99518
+Violin_happy-39.mp3,Violin_happy-42.mp3,Violin/Happy,Violin/Happy,0.99923
+Violin_happy-39.mp3,Violin_happy-43.mp3,Violin/Happy,Violin/Happy,0.99942
+Violin_happy-39.mp3,Violin_happy-45.mp3,Violin/Happy,Violin/Happy,0.99559
+Violin_happy-39.mp3,Violin_happy-48.mp3,Violin/Happy,Violin/Happy,0.99528
+Violin_happy-42.mp3,Violin_happy-43.mp3,Violin/Happy,Violin/Happy,0.99918
+Violin_happy-42.mp3,Violin_happy-45.mp3,Violin/Happy,Violin/Happy,0.99639
+Violin_happy-42.mp3,Violin_happy-48.mp3,Violin/Happy,Violin/Happy,0.9963
+Violin_happy-43.mp3,Violin_happy-45.mp3,Violin/Happy,Violin/Happy,0.99547
+Violin_happy-43.mp3,Violin_happy-48.mp3,Violin/Happy,Violin/Happy,0.99524
+Violin_happy-45.mp3,Violin_happy-48.mp3,Violin/Happy,Violin/Happy,0.99927
+Violin_happy-46.mp3,Violin_happy-49.mp3,Violin/Happy,Violin/Happy,0.99553
+violin-sad-1.mp3,violin-sad-7.mp3,Violin/Sad,Violin/Sad,0.99785
+violin-sad-1.mp3,violin-sad-calm14.mp3,Violin/Sad,Violin/Sad,0.99512
+violin-sad-3.mp3,violin-sad-calm10.mp3,Violin/Sad,Violin/Sad,0.99544
+violin-sad-5.mp3,violin-sad-calm16.mp3,Violin/Sad,Violin/Sad,0.99608
+violin-sad-6.mp3,violin-sad-calm15.mp3,Violin/Sad,Violin/Sad,0.99915
+violin-sad-8.mp3,violin-sad-calm4.mp3,Violin/Sad,Violin/Sad,0.99568
+violin-sad-calm16.mp3,violin-sad-calm7.mp3,Violin/Sad,Violin/Sad,0.99802
+violin-sad-calm20.mp3,violin-sad-calm24.wav,Violin/Sad,Violin/Sad,1.0
+violin-sad-calm27.wav,violin-sad-calm28.mp3,Violin/Sad,Violin/Sad,1.0
