@@ -17,13 +17,13 @@ IM-ERNet/
 │   ├── imernet.py                      # complete pipeline (data audit, training, baselines, ablations, analysis)
 │   └── IM-ERNet_experiments.ipynb      # the same pipeline as a Kaggle/Colab notebook
 ├── data/
-│   ├── file_list.csv                   # every clip: instrument, emotion, duplicate group, source type, source URL
+│   ├── file_list.csv                   # every clip: instrument, emotion and duplicate group
 │   └── removed_identical_copies.csv    # the 23 byte-identical copies removed before splitting
 ├── results/
 │   ├── tables/                         # all CSV tables used in the paper
 │   ├── figures/                        # result figures
-│   ├── preds/                          # test and validation logits of every run (.npz)
-│   ├── logs/                           # epoch-wise training history of every run
+│   ├── preds.zip                       # test and validation logits of every run (.npz), unzip to results/preds/
+│   ├── logs.zip                        # epoch-wise training history of every run, unzip to results/logs/
 │   └── results.jsonl                   # one line of metrics per run
 ├── config.json                         # full configuration used for the paper
 ├── requirements.txt
@@ -58,9 +58,7 @@ Emotions:    Happy, Sad, Calm, Relax
 
 The dataset has 753 clips; 23 byte-identical copies are removed automatically, leaving 730 clips.
 `data/file_list.csv` lists every clip with its labels and its near-duplicate group (589 groups, cosine similarity
-of log-Mel statistics ≥ 0.998). Clips recorded by the authors are shared in this repository; clips taken from public
-online sources are listed with links to their original locations (`source_url`), because their redistribution is
-governed by the original licences.
+of log-Mel statistics ≥ 0.998). The audio clips are available from the corresponding author on reasonable request.
 
 Emotion labels come from the mood stated for each source recording. For Tabla, the label coincides with the tala
 (Trital = Happy, Jhaptal = Sad, Rupak = Calm).
@@ -112,6 +110,7 @@ Statistical tests are in `results/tables/significance_emo.csv` and `significance
 
 ```python
 import numpy as np
+# first unzip results/preds.zip into results/preds/
 d = np.load("results/preds/IM_ERNet_seed42.npz")
 # idx: test indices into the de-duplicated file list; y_emo, y_inst: true labels
 # logits_emo, logits_inst: test logits; val_*: the same for the validation set
